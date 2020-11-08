@@ -1,4 +1,4 @@
-# Discover-Bangladesh (WINNER OF INTERNATIONAL WEBSITE COMPETITION" BY ISA, MNSU, MANKATO 2019
+# Discover-Bangladesh (WINNER OF INTERNATIONAL WEBSITE COMPETITION" BY ISA, MNSU, MANKATO 2019)
 This is the front end HTML CSS design for the bangladeshi website at MNSU. The goal of the static web was to inform site visitors about people, language, culture etc of 
 
 
